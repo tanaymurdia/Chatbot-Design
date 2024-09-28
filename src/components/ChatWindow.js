@@ -60,7 +60,9 @@ function ChatWindow() {
               }}
               rows="3"
             />
-            <button className="send-button" onClick={handleSend}>
+            <button className="send-button" onClick={(e) =>
+             {e.preventDefault()
+              handleSend(input)}}>
               Send
             </button>
           </div>
