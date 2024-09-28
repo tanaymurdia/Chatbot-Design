@@ -1,0 +1,469 @@
+Certainly! Below is a detailed list of all items derived from the document, organized by category and including comprehensive information about each part:
+
+### Dishwasher Parts:
+
+1. **Dishwasher Upper Rack Adjuster Kit**
+   - **Price:** $47.79
+   - **PartSelect Number:** PS10065979
+   - **Manufacturer Part Number:** W10712395
+   - **Description:** Kit made of primarily plastic and metal components; allows the dishwasher rack to slide in and out.
+
+2. **Dishwasher Rack Track Stop**
+   - **Price:** $7.70
+   - **PartSelect Number:** PS11746591
+   - **Manufacturer Part Number:** WP8565925
+   - **Description:** Stops the dish rack at the appropriate place; sold individually.
+
+3. **Dishwasher Lower Dishrack Wheel**
+   - **Price:** $46.00
+   - **PartSelect Number:** PS3406971
+   - **Manufacturer Part Number:** W10195416
+   - **Description:** Allows the rack to slide easily; sold individually.
+
+4. **Dishwasher Lower Spray Arm**
+   - **Price:** $19.70
+   - **PartSelect Number:** PS17137081
+   - **Manufacturer Part Number:** WD22X33499
+   - **Description:** Distributes water and detergent; important for cleaning dishes properly.
+
+5. **Dishwasher Lower Spray Arm (alternative)**
+   - **Price:** $35.34
+   - **PartSelect Number:** PS12585623
+   - **Manufacturer Part Number:** 5304517203
+   - **Description:** Similar function to the previous spray arm; also important for cleaning.
+
+6. **Dishwasher Lower Dishrack Wheel Assembly**
+   - **Price:** $36.70
+   - **PartSelect Number:** PS11750057
+   - **Manufacturer Part Number:** WPW10195417
+   - **Description:** Allows lower dishrack to move in and out smoothly; includes 2 rollers.
+
+7. **Dishwasher Upper Rack Adjuster**
+   - **Price:** $43.81
+   - **PartSelect Number:** PS11756150
+   - **Manufacturer Part Number:** WPW10546503
+   - **Description:** Fits onto the dishwasher rack; ensures proper sliding.
+
+8. **Dishwasher Lower Rack Roller**
+   - **Price:** $13.11
+   - **PartSelect Number:** PS16217024
+   - **Manufacturer Part Number:** WD12X26146
+   - **Description:** Allows lower rack to slide smoothly; sold individually.
+
+9. **Dishwasher Bottom Door Gasket**
+   - **Price:** $21.06
+   - **PartSelect Number:** PS9495545
+   - **Manufacturer Part Number:** 809006501
+   - **Description:** Creates a watertight seal to prevent leaks; sold individually.
+
+10. **Dishwasher Dishrack Roller - Grey**
+    - **Price:** $11.11
+    - **PartSelect Number:** PS8727387
+    - **Manufacturer Part Number:** 00611475
+    - **Description:** Replacement roller for lower dishrack; sold individually.
+
+11. **Dishwasher Door Handle Fastener**
+    - **PartSelect Number:** PS6447735
+    - **Manufacturer Part Number:** WR01X11007
+    - **Price:** $13.11
+    - **Description:** Fastener to secure the handle.
+    - **Fixes Symptoms:** Door won’t open or close.
+
+12. **Dishwasher Retainer Clip - White**
+    - **PartSelect Number:** PS11755737
+    - **Manufacturer Part Number:** WPW10503549
+    - **Price:** $7.40
+    - **Description:** Holds the access panel in place.
+
+13. **Dishwasher Rubber Washer**
+    - **PartSelect Number:** PS11743934
+    - **Manufacturer Part Number:** WP717273
+    - **Price:** $7.75
+    - **Description:** Prevents water leaking during the dishwasher cycle.
+    - **Fixes Symptoms:** Leaking, Not cleaning dishes properly, Not drying dishes properly.
+
+14. **Dishwasher Grommet**
+    - **PartSelect Number:** PS11756098
+    - **Manufacturer Part Number:** WPW10538166
+    - **Price:** $32.42
+    - **Description:** Creates a watertight seal between the inlet hose and the circulation pump.
+    - **Fixes Symptoms:** Leaking, Not cleaning dishes properly.
+
+15. **Dishwasher Drain Pump - 120V 60Hz**
+    - **PartSelect Number:** PS8689824
+    - **Manufacturer Part Number:** A00126401
+    - **Price:** $100.36
+    - **Description:** Drains water from the dishwasher after every cycle.
+    - **Symptoms Fixed:** Leaking, Noisy, Not draining.
+
+16. **Dishwasher Drain Pump**
+    - **PartSelect Number:** PS11753379
+    - **Manufacturer Part Number:** WPW10348269
+    - **Price:** $72.39
+    - **Description:** Used to remove water from the dishwasher tub.
+    - **Symptoms Fixed:** Leaking, Noisy, Not cleaning dishes properly.
+
+17. **Dishwasher Circulation Pump with Heater**
+    - **PartSelect Number:** PS11724988
+    - **Manufacturer Part Number:** 12008381
+    - **Price:** $145.82
+    - **Description:** Moves heated water through the spray arm to clean dishes.
+    - **Symptoms Fixed:** Leaking, Noisy, Not cleaning dishes properly.
+
+18. **Dishwasher Drain Pump**
+    - **PartSelect Number:** PS11738151
+    - **Manufacturer Part Number:** W10876537
+    - **Price:** $76.68
+    - **Description:** Removes water from the dishwasher tub during the drainage phase.
+    - **Symptoms Fixed:** Leaking, Not draining.
+
+19. **Dishwasher Circulation Pump**
+    - **PartSelect Number:** PS11772000
+    - **Manufacturer Part Number:** WD26X23258
+    - **Price:** $125.04
+    - **Description:** Contains Piranha clamps in kit WD35X10382.
+    - **Symptoms Fixed:** Leaking, Not cleaning dishes properly, Will Not Start.
+
+20. **Dishwasher Pump Motor Kit**
+    - **PartSelect Number:** PS3497737
+    - **Manufacturer Part Number:** 154844301
+    - **Price:** $163.71
+    - **Description:** Includes motor and o-rings.
+    - **Symptoms Fixed:** Leaking, Noisy, Not cleaning dishes properly.
+
+21. **Dishwasher Drain Pump**
+    - **PartSelect Number:** PS11756031
+    - **Manufacturer Part Number:** WPW10531320
+    - **Price:** $69.00
+    - **Description:** Removes wastewater from the dishwasher during the drainage cycle.
+    - **Symptoms Fixed:** Leaking, Noisy, Not draining.
+
+22. **Dishwasher Drain Pump - 55Hz**
+    - **PartSelect Number:** PS8727352
+    - **Manufacturer Part Number:** 00611332
+    - **Price:** $59.36
+    - **Description:** Ejects water from the dishwasher through the drain hose.
+    - **Symptoms Fixed:** Noisy, Not draining, Will Not Start.
+
+23. **Dishwasher Sump**
+    - **PartSelect Number:** PS959014
+    - **Manufacturer Part Number:** WD18X10026
+    - **Price:** $37.58
+    - **Description:** Works in conjunction with the pump and filtration system for drainage.
+    - **Symptoms Fixed:** Leaking, Not cleaning dishes properly, Not draining.
+
+24. **Dishwasher Drain and Wash Impeller Kit**
+    - **PartSelect Number:** PS382822
+    - **Manufacturer Part Number:** 675806
+    - **Price:** $92.87
+    - **Description:** Helps with proper draining and prevents leaking.
+    - **Symptoms Fixed:** Leaking, Noisy, Not cleaning dishes properly.
+
+25. **Dishwasher Mounting Bracket**
+    - **PartSelect Number:** PS11745496
+    - **Manufacturer Part Number:** WP8269145
+    - **Price:** $10.03
+    - **Description:** Secures the upper side of the dishwasher to the underside of the counter or cabinet to prevent movement. Made of metal. Sold individually without screws.
+    - **Fixes Symptoms:** Door latch failure, Door won’t close, Leaking.
+
+26. **Dishwasher Mounting Bracket**
+    - **PartSelect Number:** PS8728568
+    - **Manufacturer Part Number:** 00619985
+    - **Price:** $8.67
+    - **Description:** Sold individually.
+    - **Fixes Symptoms:** Door latch failure.
+
+27. **Dishwasher Countertop Bracket**
+    - **PartSelect Number:** PS11700868
+    - **Manufacturer Part Number:** WD01X21740
+    - **Price:** $7.50
+    - **Description:** Secures the dishwasher to the countertop. About 3 inches long, made of metal. Screws not included.
+
+28. **Dishwasher Tine Bracket**
+    - **PartSelect Number:** PS11770479
+    - **Manufacturer Part Number:** 5304506508
+    - **Price:** $8.08
+    - **Description:** Holds tines in place in the upper dishrack, made of plastic. Sold individually.
+
+29. **Dishwasher Side Mounting Bracket Kit**
+    - **PartSelect Number:** PS1487167
+    - **Manufacturer Part Number:** 8212560
+    - **Price:** $18.64
+    - **Description:** Suitable for solid surface countertops.
+
+30. **Dishwasher Heating Element Support Bracket**
+    - **PartSelect Number:** PS975933
+    - **Manufacturer Part Number:** 154465101
+    - **Price:** $11.26
+    - **Description:** Sold individually.
+
+31. **Dishwasher BRACKET**
+    - **PartSelect Number:** PS11727941
+    - **Manufacturer Part Number:** W10837623
+    - **Price:** $22.20
+
+32. **Dishwasher MOUNTING BRACKET**
+    - **PartSelect Number:** PS8727456
+    - **Manufacturer Part Number:** 00611955
+    - **Price:** $6.73
+
+33. **Dishwasher Spray Arm Tube Hanger**
+    - **PartSelect Number:** PS11745439
+    - **Manufacturer Part Number:** WP8268349
+    - **Price:** $15.72
+    - **Fixes Symptoms:** Not cleaning dishes properly.
+
+34. **Dishwasher TOP MOUNT BRACKETS**
+    - **PartSelect Number:** PS3655985
+    - **Manufacturer Part Number:** 5001DD4001B
+    - **Price:** $37.90
+
+35. **Dishwasher Dish Rack Adjuster Kit - Left and Right Side**
+    - **PartSelect Number:** PS10064063
+    - **Manufacturer Part Number:** W10712394
+    - **Price:** $46.62
+    - **Description:** Adjusts the height of the upper rack; includes parts to replace left and right-side rack adjusters.
+
+36. **Dishwasher Silverware Basket**
+    - **PartSelect Number:** PS959351
+    - **Manufacturer Part Number:** WD28X10128
+    - **Price:** $32.32
+    - **Description:** Used for washing flatware or silverware.
+
+37. **Dishwasher Silverware Basket**
+    - **PartSelect Number:** PS11746119
+    - **Manufacturer Part Number:** WP8531233
+    - **Price:** $53.44
+    - **Description:** Holds utensils in the dishwasher; no disassembly required for replacement.
+
+38. **Dishwasher Lower Dish Rack with Wheels - Gray**
+    - **PartSelect Number:** PS8746204
+    - **Manufacturer Part Number:** WD28X10384
+    - **Price:** $188.38
+    - **Description:** Lower rack assembly for larger items; includes 8 rollers/wheels.
+
+39. **Dishwasher Lower Dishrack**
+    - **PartSelect Number:** PS10057160
+    - **Manufacturer Part Number:** W10728159
+    - **Price:** $214.12
+    - **Description:** Lower rack only.
+
+40. **Dishwasher Tine Holder**
+    - **PartSelect Number:** PS8712513
+    - **Manufacturer Part Number:** 00418498
+    - **Price:** $7.58
+    - **Description:** Holds tines in place on the lower rack; snaps into place.
+
+41. **Dishwasher Lower Dishrack**
+    - **PartSelect Number:** PS2379469
+    - **Manufacturer Part Number:** 5304475624
+    - **Price:** $127.76
+    - **Description:** Lower rack; wheels sold separately.
+
+42. **Dishwasher Upper Dishrack with Wheels**
+    - **PartSelect Number:** PS2379463
+    - **Manufacturer Part Number:** 5304475618
+    - **Price:** $123.64
+    - **Description:** Upper rack including wheels.
+
+43. **Dishwasher Silverware Basket with Lids**
+    - **PartSelect Number:** PS1016011
+    - **Manufacturer Part Number:** WD28X10177
+    - **Price:** $31.74
+    - **Description:** Basket for washing silverware.
+
+44. **Dishwasher Dishrack Assembly**
+    - **PartSelect Number:** PS12075784
+    - **Manufacturer Part Number:** 3751DD1001J
+    - **Price:** $202.50
+    - **Description:** Lower dishrack assembly for LG dishwashers.
+
+45. **Dishwasher Door Spring Kit**
+    - **PartSelect Number:** PS8770519
+    - **Manufacturer Part Number:** 00754866
+    - **Price:** $44.72
+    - **Description:** Includes 2 springs and 2 cables; applies tension to prevent the door from dropping too quickly.
+    - **Fixes Symptoms:** Door latch failure, Door won’t close.
+
+46. **Dishwasher Door Spring**
+    - **PartSelect Number:** PS1524996
+    - **Manufacturer Part Number:** 154579101
+    - **Price:** $43.77
+    - **Description:** Sold individually, helps prevent the door from dropping too quickly.
+    - **Fixes Symptoms:** Door latch failure, Door won’t close, Noisy.
+
+47. **Dishwasher Spring, Hinge**
+    - **PartSelect Number:** PS3524564
+    - **Manufacturer Part Number:** 4970ED4004G
+    - **Price:** $17.38
+    - **Description:** Adds tension to the door to keep it from opening too fast.
+    - **Fixes Symptoms:** Door latch failure, Door won’t close.
+
+48. **Dishwasher Door Spring**
+    - **PartSelect Number:** PS815938
+    - **Manufacturer Part Number:** 154430501
+    - **Price:** $34.99
+    - **Description:** Prevents door from dropping too quickly; sold individually.
+    - **Fixes Symptoms:** Door latch failure, Door won’t close.
+
+49. **Dishwasher Recess Door Spring**
+    - **PartSelect Number:** PS285013
+    - **Manufacturer Part Number:** 4970ED1004B
+    - **Price:** $5.47
+    - **Description:** Adds tension to the door to keep it from dropping too quickly.
+    - **Fixes Symptoms:** Door latch failure, Door won’t close.
+
+### Refrigerator Parts:
+
+
+1. **Refrigerator Door Shelf Bin**
+   - **Price:** $43.00
+   - **PartSelect Number:** PS12364199
+   - **Manufacturer Part Number:** 242126602
+   - **Description:** Clear plastic shelf bin, easy to install, holds items like jars and condiments. Snaps into place without tools.
+
+2. **Refrigerator Ice and Water Filter**
+   - **Price:** $103.87
+   - **PartSelect Number:** PS11701542
+   - **Manufacturer Part Number:** EDR1RXD1
+   - **Description:** OEM replacement filter for side-by-side and bottom-freezer refrigerators that reduces 28 contaminants. Requires replacement every six months.
+   - **Installation Instructions:** Quick-turn installation feature.
+
+3. **Refrigerator Door Shelf Bin #2**
+   - **Price:** $36.18
+   - **PartSelect Number:** PS11752778
+   - **Manufacturer Part Number:** WPW10321304
+   - **Description:** Clear plastic with white trim, holds items in the fridge door, easily installed without tools.
+
+4. **Refrigerator Door Shelf Retainer Bar**
+   - **Price:** $41.39
+   - **PartSelect Number:** PS734935
+   - **Manufacturer Part Number:** 240534901
+   - **Description:** White plastic part that holds items on the door shelves, snaps into place without tools.
+   
+5. **Refrigerator Water Filter #2**
+   - **Price:** $103.87
+   - **PartSelect Number:** PS11722130
+   - **Manufacturer Part Number:** EDR4RXD1
+   - **Description:** Purifies water for the dispenser and ice maker, should be replaced every six months.
+   
+6. **Refrigerator Crisper Drawer with Humidity Control**
+   - **Price:** $79.56
+   - **PartSelect Number:** PS11739119
+   - **Manufacturer Part Number:** WP2188656
+   - **Description:** Keeps fruits and vegetables fresh by regulating humidity, measures 14.92x7.6x16.5 inches.
+   
+7. **Refrigerator Water Filters**
+   - **Price Ranges:** $79.91 - $92.32
+   - **PartSelect Numbers:** PS16217433, PS10063209
+   - **Description:** Various water filter models that help improve water quality and should be replaced periodically.
+
+8. **Refrigerator Door Shelf Retainer Bin**
+   - **Price:** $41.52
+   - **PartSelect Number:** PS429868
+   - **Manufacturer Part Number:** 240337901
+   - **Description:** Attaches to the inside of the refrigerator door, holds various items.
+   - **Dimensions:** 24.25 inches wide and 3.75 inches deep.
+
+9. **Refrigerator Door Shelf Bin - White**
+   - **Price:** $37.67
+   - **PartSelect Number:** PS11739091
+   - **Manufacturer Part Number:** WP2187172
+   - **Description:** An authentic manufacturer-certified part made of white plastic used to hold items in the fridge door.
+   - **Dimensions:** Approximately 18 inches wide, 4.5 inches high, and 7 inches deep.
+
+10. **Refrigerator EveryDrop3 Water Filter**
+    - **Price:** $83.97
+    - **PartSelect Number:** PS11722128
+    - **Manufacturer Part Number:** EDR3RXD1
+    - **Description:** Certified to reduce contaminants with Triple Filtration Technology.
+    - **Replacement Frequency:** Every six months.
+   
+11. **Refrigerator Crisper Drawer with Humidity Control**
+   - **Price:** $79.56
+   - **PartSelect Number:** PS11739119
+   - **Manufacturer Part Number:** WP2188656
+   - **Description:** Keeps vegetables and fruits fresh by regulating humidity.
+   - **Dimensions:** 14.92 inches long, 7.6 inches high, and 16.5 inches wide.
+
+12. **Refrigerator Light Bulb - 40W**
+   - **Price:** $11.72
+   - **PartSelect Number:** PS884734
+   - **Manufacturer Part Number:** 8009
+   - **Description:** 40-watt replacement light bulb designed to withstand extreme temperatures, features a standard socket base.
+
+13. **Refrigerator Center Rail**
+   - **Price:** $27.48
+   - **PartSelect Number:** PS11752912
+   - **Manufacturer Part Number:** WPW10326469
+   - **Description:** Supports the crisper frame, easy to install.
+   - **Symptoms Fixed:** Door won’t open or close, noisy.
+
+14. **Refrigerator Pantry End Cap Kit, LH and RH**
+   - **Price:** $44.15
+   - **PartSelect Number:** PS11738134
+   - **Manufacturer Part Number:** W10874836
+   - **Description:** Contains parts for the pantry drawer, includes both left and right pantry drawer end caps.
+   - **Installation Difficulty:** Medium.
+
+15. **Refrigerator Air Filter**
+   - **Price:** $21.54
+   - **PartSelect Number:** PS2580853
+   - **Manufacturer Part Number:** W10311524
+   - **Description:** Neutralizes odor and bacteria in the air. Should be replaced every six months.
+
+16. **Refrigerator Door Shelf Bar**
+    - **Price:** $30.10
+    - **PartSelect Number:** PS964507
+    - **Manufacturer Part Number:** WR17X11889
+    - **Description:** Easy to install door shelf requiring no tools.
+
+17. **Refrigerator Center Crisper Drawer Slide Rail**
+    - **Price:** $50.67
+    - **PartSelect Number:** PS11757048
+    - **Manufacturer Part Number:** WPW10671238
+    - **Description:** Supports crisper drawer; made of plastic and easy to install.
+    
+18. **Refrigerator Crisper Cover Support - Front**
+    - **Price:** $11.87
+    - **PartSelect Number:** PS2358880
+    - **Manufacturer Part Number:** 241993101
+    - **Description:** Supports the crisper shelf, measures approximately 1 inch in diameter.
+    
+19. **Refrigerator Drawer Support Rail - Right Side**
+    - **Price:** $50.29
+    - **PartSelect Number:** PS430917
+    - **Manufacturer Part Number:** 240530701
+    - **Description:** Support rail for the right side of the sliding drawer, approximately 16 inches long by 1 inch high.
+    
+20. **Refrigerator Door Bin - Clear**
+    - **Price:** $80.83
+    - **PartSelect Number:** PS430122
+    - **Manufacturer Part Number:** 240356402
+    - **Description:** Holds items on the door and is now available in clear plastic.
+    
+21. **Refrigerator Ice and Water Filter - PureSource Ultra**
+    - **Price:** $84.19
+    - **PartSelect Number:** PS2364646
+    - **Manufacturer Part Number:** ULTRAWF
+    - **Description:** Fits most Frigidaire models, designed for cylindrical filter housing. Reduces contaminants and is replaced every six months.
+   
+22. **Refrigerator Door Shelf Bin - Clear with White Trim**
+    - **Price:** $36.18
+    - **PartSelect Number:** PS11752778
+    - **Manufacturer Part Number:** WPW10321304
+    - **Description:** Clear plastic bin with white trim, for holding items in the fridge door, easy to install without tools.
+
+23. **Refrigerator Water Filter**
+    - **Price:** $72.47
+    - **PartSelect Number:** PS3412266
+    - **Manufacturer Part Number:** WF3CB
+    - **Description:** NSF-Certified OEM filter that reduces contaminants and improves water taste. Fits specific Frigidaire models.
+    - **Replacement Frequency:** Replace every six months.
+
+24. **Refrigerator Water Inlet Valve**
+    - **Price:** $90.98
+    - **PartSelect Number:** PS7784018
+    - **Manufacturer Part Number:** 242252702
+    - **Description:** Controls water flow for ice maker and water dispenser, measures approximately 7 inches long and 4.5 inches wide.
+    - **Symptoms Fixed:** Ice maker issues.
