@@ -1,3 +1,20 @@
+# Chatbot Design Idea
+
+Based on this flow:
+
+![image](https://github.com/user-attachments/assets/cb4299a2-397a-4014-999d-7d2f6e64be13)
+
+Demo Video: https://www.loom.com/share/7f10939de2634f4f879a89c4020ca940?sid=966ad995-240c-4f9b-88ae-878082802d00
+
+# Python Service
+
+To Activate Service:
+## Create Database
+Run `python_service\utils\data_retrieval.py`
+
+## Start service
+Run `python_service\app.py`
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
