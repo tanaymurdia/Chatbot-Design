@@ -6,8 +6,6 @@ import re
 from openai import OpenAI
 
 link_checked =set()
-# api_key = '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'
-api_key ='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'
 
 def concise_text(allText):
     if not len(allText.strip()) == 0:

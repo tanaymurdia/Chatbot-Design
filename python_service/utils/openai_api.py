@@ -1,8 +1,6 @@
 from openai import OpenAI
 import re
 
-api_key ='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'
-
 def content_checking(previous_conv,document,userInput):
     global api_key
     client = OpenAI(api_key=api_key)
